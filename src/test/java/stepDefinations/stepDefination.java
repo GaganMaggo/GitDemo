@@ -34,6 +34,7 @@ public class stepDefination {
 	    @Then("^Check browser is started$")
 	    public void check_browser_is_started() {
 	    	System.out.println("Check browser is started");
+	    	System.out.println(" browser is started");
 	    }
 
 		
