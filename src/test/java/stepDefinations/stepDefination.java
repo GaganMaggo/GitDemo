@@ -28,6 +28,7 @@ public class stepDefination {
 	    @When("^broser is trigerred$")
 	    public void broser_is_trigerred() {
 	    	System.out.println("broser is trigerred");
+	    	System.out.println("broser successfully trigerred");
 	   }
 
 	    @Then("^Check browser is started$")
